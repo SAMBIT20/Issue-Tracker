@@ -1,5 +1,5 @@
 # Issue-Tracker
-## [Project Live](https://issue-traker-sk.herokuapp.com/)
+## [Project Live](https://sk-issue-traker.herokuapp.com/)
 
 This application has following features with two view pages
 
